@@ -1,0 +1,10 @@
+/* Toglle Button On Bootstrab */
+button:focus {
+     outline: none; 
+     outline: none; 
+}
+
+.navbar-dark .navbar-toggler {
+     border-color:transparent; 
+}
+/* Toglle Button On Bootstrab */
